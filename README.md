@@ -2,6 +2,10 @@ Tcal
 ====
 This is just an modified front end view of Simpilots events module. It requires Simpilots events module to be already installed. It looks like a calendar with links to the event where pilots can sign up for them. All thanks goes to simpilot for his wonderful events module. I have included also an edited EventsData.class.php. It is required for this mod to work.
 
+Copyright
+=========
+Daniel Counahan AKA Strider and Simpilot
+
 License
 =======
 License
